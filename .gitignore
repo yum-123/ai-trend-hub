@@ -1,0 +1,7 @@
+.venv/
+output/*.md
+output/*.json
+output/run.log
+__pycache__/
+*.pyc
+.env

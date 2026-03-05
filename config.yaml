@@ -1,0 +1,31 @@
+keywords:
+  - AI
+  - AIエージェント
+  - LLM
+  - 個人開発
+  - claude code
+  - open ai
+  - cursor
+  - open claw
+
+sources:
+  qiita:
+    enabled: true
+    per_keyword: 10   # キーワードごとに取得する記事数
+  zenn:
+    enabled: true
+    feed_limit: 100   # フィードから取得する最大記事数
+  reddit:
+    enabled: true
+    per_keyword: 5    # キーワードごとに取得する記事数
+    subreddits:
+      - MachineLearning
+      - artificial
+      - LocalLLaMA
+      - singularity
+      - ClaudeAI
+      - ChatGPT
+      - OpenAI
+
+output:
+  dir: output
