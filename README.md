@@ -121,3 +121,31 @@ ai-trend-hub/
 │   └── reddit.py    # Reddit フェッチャー
 └── output/          # 出力ファイル（自動生成）
 ```
+
+## デプロイ（Streamlit Community Cloud）
+
+Web UI (`app.py`) は [Streamlit Community Cloud](https://streamlit.io/cloud) で無料公開できます。
+
+### 1. GitHub Actions で記事収集を自動化
+
+`.github/workflows/daily-update.yml` が毎日 07:00 JST に `main.py` を実行し、
+`output/` の結果を自動でリポジトリに commit します。
+
+リポジトリの Settings → Secrets and variables → Actions で、以下のシークレットを登録してください。
+
+| シークレット名 | 内容 |
+| --- | --- |
+| `ANTHROPIC_API_KEY` | Anthropic API キー（スコアリングに使用） |
+
+### 2. Streamlit Community Cloud にデプロイ
+
+1. https://share.streamlit.io にアクセスし、GitHub アカウントでログイン
+2. 「New app」から本リポジトリを選択
+3. Main file path に `app.py` を指定してデプロイ
+4. 「Advanced settings」→「Secrets」に以下を TOML 形式で追加
+
+   ```toml
+   ANTHROPIC_API_KEY = "your_anthropic_api_key_here"
+   ```
+
+デプロイ後、GitHub Actions が `output/` を更新するたびにアプリも自動的に最新データを反映します。

@@ -1,7 +1,6 @@
 .venv/
-output/*.md
-output/*.json
 output/run.log
+output/*_old.md
 __pycache__/
 *.pyc
 .env

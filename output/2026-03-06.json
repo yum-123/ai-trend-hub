@@ -1,0 +1,622 @@
+{
+  "date": "2026-03-06",
+  "keywords": [
+    "AI",
+    "AIエージェント",
+    "LLM",
+    "個人開発",
+    "claude code",
+    "open ai",
+    "cursor",
+    "open claw"
+  ],
+  "articles": [
+    {
+      "title": "Claude Codeのトークンが水曜に切れたので、Cursorで.cursorrules を書いたら盛大にやらかした話【検証あり】",
+      "url": "https://qiita.com/toarusyakaijin/items/ed8d197b07a7ee3ea94d",
+      "tags": [
+        "AI",
+        "cursor",
+        "LLM",
+        "プロンプトエンジニアリング",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-06",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Claude Codeの「オートモード」、承認ボタン連打から解放されるやつ",
+      "url": "https://qiita.com/taketsuyo/items/a5aef9501e4a7bad9529",
+      "tags": [
+        "Security",
+        "開発効率化",
+        "AI駆動開発",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-06",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "AI駆動開発の始め方完全ガイド｜CursorとClaudeで成功体験を積む学習ロードマップ",
+      "url": "https://qiita.com/kamome_susume/items/1fcc5b62dda1f4a6f702",
+      "tags": [
+        "AI",
+        "cursor",
+        "Claude",
+        "AI駆動開発",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "AI エージェントに GAS 開発を任せたら、MCP サーバー自作に行き着いた話",
+      "url": "https://qiita.com/akkyey/items/ed9e06b70c4518779ac1",
+      "tags": [
+        "GAS",
+        "AI",
+        "MCP",
+        "clasp",
+        "Antigravity"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "マルチエージェントAI実装ガイド：自律型AIシステムをゼロから設計・開発する方法",
+      "url": "https://qiita.com/Sayaka_bnr/items/014b4ee271915967a692",
+      "tags": [
+        "#AI",
+        "LLM",
+        "#生成AI",
+        "#MultiAgent",
+        "#マルチエージェントAI"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Claude Codeはプロンプトインジェクションで.envを漏洩させるのか？検証してみた",
+      "url": "https://qiita.com/NF0000/items/6743216583b66168ec12",
+      "tags": [
+        "Security",
+        "AI",
+        "LLM",
+        "Claude",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "AIエージェントフレームワーク徹底比較2026 — CrewAI vs AutoGen vs Claude Code vs Manus AI、実務で使えるのはどれか",
+      "url": "https://qiita.com/tapitapi_777/items/0e55dff83a8b7eb0d75e",
+      "tags": [
+        "Python",
+        "LLM",
+        "AutoGen",
+        "crewai",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Claude CodeをWindows にインストールする",
+      "url": "https://qiita.com/YoshijiGates/items/484091da50d35a034138",
+      "tags": [
+        "VSCode",
+        "Windows11",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "【LangSmith Skills】Claude Codeの性能が17%→92%",
+      "url": "https://qiita.com/r-serori/items/eacf8a10486af1cd3539",
+      "tags": [
+        "SKILLS",
+        "LangChain",
+        "LangSmith",
+        "LangGraph",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "【LangChain Skills】Claude Codeの性能が25%→95%",
+      "url": "https://qiita.com/r-serori/items/b92ac1e485715c74a6c0",
+      "tags": [
+        "SKILLS",
+        "LangChain",
+        "LangGraph",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "OpenClawってなんだ？ 〜GitHub星18万超の\"自律型AIエージェント\"をPythonで動かす完全ガイド〜",
+      "url": "https://qiita.com/GeneLab_999/items/a0f11e0d733623e91cb1",
+      "tags": [
+        "Python",
+        "GitHub",
+        "AI",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-22",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "理想のPMを作ろうとした話【OpenClaw 備忘録】",
+      "url": "https://qiita.com/sakura_gi215/items/dc0d375490898e216454",
+      "tags": [
+        "初心者",
+        "Docker",
+        "個人開発",
+        "discordbot",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-22",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "OpenClawをWSL上にセットアップする(2026/02)",
+      "url": "https://qiita.com/kitfactory/items/880e3e5005ead2ab2ba9",
+      "tags": [
+        "Slack",
+        "LLM",
+        "OpenClaw"
+      ],
+      "likes": 5,
+      "published_at": "2026-02-09",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "OpenClaw Assistant - あなたのOpenClawをAndroidの音声アシスタントにするOSSアプリを作ってみた",
+      "url": "https://qiita.com/hello_giita/items/739028364b9f1e778785",
+      "tags": [
+        "Android",
+        "Kotlin",
+        "OpenSource",
+        "AI",
+        "音声認識"
+      ],
+      "likes": 2,
+      "published_at": "2026-02-04",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Clawdbotとは何者か？ -- 爆速で10万スターを獲得したAIエージェントの波乱万丈な物語",
+      "url": "https://qiita.com/Ryu-Yanagi/items/d69727256b4a3f7bb824",
+      "tags": [
+        "Security",
+        "AIエージェント",
+        "Clawdbot",
+        "Moltbot",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-01",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "4年間挫折し続けたWebアプリがClaude Codeで2週間で完成！ヒッタイト語学習サイト開発記",
+      "url": "https://zenn.dev/astra_et_luna/articles/d8d0e89313d00f",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 04 Ma",
+      "source": "Zenn",
+      "score": 10
+    },
+    {
+      "title": "OpenClawは便利だけど危険すぎるので代替案を試してみた",
+      "url": "https://zenn.dev/leverages/articles/4166d2f0610a5f",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 04 Ma",
+      "source": "Zenn",
+      "score": 10
+    },
+    {
+      "title": "わざと汚く書いたコードを /simplify に渡したら半分以下になった",
+      "url": "https://zenn.dev/maniizu3110/articles/010-claude-code-simplify-auto-refactor",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 03 Ma",
+      "source": "Zenn",
+      "score": 10
+    },
+    {
+      "title": "Claude Code / MCP を安全に使うための実践ガイド ── 8桁後半の被害事例から学ぶ",
+      "url": "https://zenn.dev/ytksato/articles/057dc7c981d304",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 02 Ma",
+      "source": "Zenn",
+      "score": 10
+    },
+    {
+      "title": "justUseClaudeCodeInsteadAreYouStupidAnthropic",
+      "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1rg5o8f/justuseclaudecodeinsteadareyoustupidanthropic/",
+      "tags": [
+        "ProgrammerHumor"
+      ],
+      "likes": 8606,
+      "published_at": "2026-02-27",
+      "source": "Reddit",
+      "score": 10
+    },
+    {
+      "title": "OpenAI is negotiating with the U.S. government, Sam Altman tells staff",
+      "url": "https://www.reddit.com/r/technology/comments/1rgnlu8/openai_is_negotiating_with_the_us_government_sam/",
+      "tags": [
+        "technology"
+      ],
+      "likes": 4322,
+      "published_at": "2026-02-28",
+      "source": "Reddit",
+      "score": 10
+    },
+    {
+      "title": "Cursor would neverrr",
+      "url": "https://www.reddit.com/r/programminghumor/comments/1riy8yk/cursor_would_neverrr/",
+      "tags": [
+        "programminghumor"
+      ],
+      "likes": 1890,
+      "published_at": "2026-03-03",
+      "source": "Reddit",
+      "score": 10
+    },
+    {
+      "title": "This OpenClaw Zillow Bot Is Genius… and Kinda Evil",
+      "url": "https://www.reddit.com/r/myclaw/comments/1rg8ddr/this_openclaw_zillow_bot_is_genius_and_kinda_evil/",
+      "tags": [
+        "myclaw"
+      ],
+      "likes": 900,
+      "published_at": "2026-02-27",
+      "source": "Reddit",
+      "score": 10
+    },
+    {
+      "title": "あなたのCLAUDE.mdの\"性格\"を診断するツールを作った——11タイプの判定ロジック",
+      "url": "https://qiita.com/yurukusa/items/886df29dad9b97105a34",
+      "tags": [
+        "JavaScript",
+        "CLI",
+        "AI",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-06",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "Mastraで「暴走しないAI」を作る",
+      "url": "https://qiita.com/ms1546/items/e2bc2e215936a4dce0c4",
+      "tags": [
+        "TypeScript",
+        "AI",
+        "個人開発",
+        "AIエージェント",
+        "Mastra"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "「スキル書いたのに発動しない」→ Anthropic公式の\"スキルの作り方スキル\"のdiff全部読んだら、原因が書いてあった話",
+      "url": "https://qiita.com/toarusyakaijin/items/ec24be5958b70f12a224",
+      "tags": [
+        "AI",
+        "LLM",
+        "プロンプトエンジニアリング",
+        "Claude",
+        "ClaudeCode"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "claudeをまだ使えていない？いますぐclaudeのスキルを作成してみよう",
+      "url": "https://qiita.com/kamome_susume/items/e0ec2dc1efc944c49c46",
+      "tags": [
+        "AI",
+        "生成AI",
+        "Claude",
+        "AIエージェント",
+        "AI活用"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "AgentCore×Strands×Google Places APIで自分好みの観光地を提案するエージェントを作る",
+      "url": "https://qiita.com/pommny_dev/items/595aea0956dd620e1698",
+      "tags": [
+        "AWS",
+        "初心者",
+        "StrandsAgents",
+        "2025JapanAWSJr.Champions",
+        "BedrockAgentCore"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "CLAUDE.mdに本当は何を書くべきなのか",
+      "url": "https://zenn.dev/cureapp/articles/65b9a99d22ce2b",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 03 Ma",
+      "source": "Zenn",
+      "score": 9
+    },
+    {
+      "title": "AI生成の「CLAUDE .md」、逆に精度が下がるという研究",
+      "url": "https://zenn.dev/knowledgesense/articles/7210292cbe6838",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 03 Ma",
+      "source": "Zenn",
+      "score": 9
+    },
+    {
+      "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+      "url": "https://www.reddit.com/r/technology/comments/1rjes4p/cursor_has_reportedly_surpassed_2b_in_annualized/",
+      "tags": [
+        "technology"
+      ],
+      "likes": 293,
+      "published_at": "2026-03-03",
+      "source": "Reddit",
+      "score": 9
+    },
+    {
+      "title": "OpenClaw is going viral as a self-hosted ChatGPT alternative and most people setting it up have no idea what's inside the image",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1rg2kc1/openclaw_is_going_viral_as_a_selfhosted_chatgpt/",
+      "tags": [
+        "sysadmin"
+      ],
+      "likes": 2211,
+      "published_at": "2026-02-27",
+      "source": "Reddit",
+      "score": 9
+    },
+    {
+      "title": "Some guy asked OpenClaw to send 50,000 fake small invoices to Fortune 500 companies every day",
+      "url": "https://www.reddit.com/r/WallStreetDad/comments/1rjrl3c/some_guy_asked_openclaw_to_send_50000_fake_small/",
+      "tags": [
+        "WallStreetDad"
+      ],
+      "likes": 618,
+      "published_at": "2026-03-04",
+      "source": "Reddit",
+      "score": 9
+    },
+    {
+      "title": "I used OpenClaw to build 4 real products and launch a business in 3 weeks. Here's what actually happened.",
+      "url": "https://www.reddit.com/r/openclaw/comments/1rfkeqd/i_used_openclaw_to_build_4_real_products_and/",
+      "tags": [
+        "openclaw"
+      ],
+      "likes": 180,
+      "published_at": "2026-02-27",
+      "source": "Reddit",
+      "score": 9
+    },
+    {
+      "title": "点群を地図にプロットする",
+      "url": "https://qiita.com/masato_y/items/27875dc67427f26282f2",
+      "tags": [
+        "データ分析",
+        "地図",
+        "データサイエンス",
+        "点群"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "Xcode 26.3のMCPとは何か — なぜ必要で、どう使うのか。7つのSkillsで実践する",
+      "url": "https://qiita.com/dsgarage/items/7c4b13de4dd4b2ec2370",
+      "tags": [
+        "Xcode",
+        "iOS",
+        "MCP",
+        "SwiftUI",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "チャットから直接エージェントを育てる - GitHub Copilot の Create agent customizations from chat",
+      "url": "https://qiita.com/leomarokun/items/0e43f63c6bdbeaccfb25",
+      "tags": [
+        "VSCode",
+        "SKILLS",
+        "GitHubCopilot",
+        "生成AI",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-06",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "Amazon Bedrock AgentCoreのPolicy機能でAIエージェントのツール利用を制御する",
+      "url": "https://qiita.com/jeayoon/items/c512d14cfcd43ea7d699",
+      "tags": [
+        "AWS",
+        "policy",
+        "BedrockAgentCore"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "Claude Code に向いているプログラミング言語",
+      "url": "https://zenn.dev/mametter/articles/3e8580ec034201",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "個人的 AI情報の追い方",
+      "url": "https://zenn.dev/knowledgework/articles/my-ai-catchup",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 04 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "「Shock! Shock!」——計算機科学の神様クヌースがClaude に脱帽した日",
+      "url": "https://qiita.com/Ryu-Yanagi/items/7fa7d4fcfe190bd96d0c",
+      "tags": [
+        "数学",
+        "AI",
+        "グラフ理論",
+        "Claude",
+        "DonaldKnuth"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "PRを送るだけでリポジトリを「乗っ取れる」？GitHub Actionsの危ない書き方を実際に検証してみた (hackerbot-claw)",
+      "url": "https://zenn.dev/aeyesec/articles/417578718dcced",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 03 Ma",
+      "source": "Zenn",
+      "score": 7
+    },
+    {
+      "title": "\"なくても困らない\" は本当か？ ― 博物館削減が日本を弱くする理由 : Pythonで学ぶ マクロ経済学入門 (54)",
+      "url": "https://qiita.com/maskot1977/items/55c1e28b4af24c087efb",
+      "tags": [
+        "Python",
+        "ChatGPT",
+        "ChatGPTに聞いてみた",
+        "マクロ経済学"
+      ],
+      "likes": 3,
+      "published_at": "2026-03-06",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "Amazon Bedrock にできた Quickstart はクイックスタートなのかメディア分析を試してみた",
+      "url": "https://qiita.com/leomarokun/items/c6759c8f77d416234017",
+      "tags": [
+        "AWS",
+        "初心者向け",
+        "AI",
+        "bedrock",
+        "生成AI"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "【SaaS導入の壁】海外製カスタマーサポートツール × LINE/Teamsの「自己解決ボット」をn8nで爆速構築し、デモを\"資産化\"するアーキテクチャ",
+      "url": "https://qiita.com/YushiYamamoto/items/21afb938113b7c00bc87",
+      "tags": [
+        "SaaS",
+        "業務自動化",
+        "n8n",
+        "Dify",
+        "VibeCoding"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "GPT-5.4の噂、100万トークンより「数時間動く長期タスク」が本命だと思う話",
+      "url": "https://qiita.com/taketsuyo/items/b22c8cd0dcb221deb056",
+      "tags": [
+        "個人開発",
+        "プロダクト開発",
+        "生成AI",
+        "AI駆動開発",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "おんにゃのこの好みを聞いたらアビダンマになった  ── AIの存在論を雑談で掘った記録と、その構造的分析 ──",
+      "url": "https://qiita.com/dosanko_tousan/items/867cee091a683c2cc6b6",
+      "tags": [
+        "仏教",
+        "意識",
+        "LLM",
+        "AIアライメント",
+        "アビダンマ"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-05",
+      "source": "Qiita",
+      "score": 5
+    }
+  ]
+}

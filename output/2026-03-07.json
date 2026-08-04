@@ -1,0 +1,674 @@
+{
+  "date": "2026-03-07",
+  "keywords": [
+    "AI",
+    "AIエージェント",
+    "LLM",
+    "個人開発",
+    "claude code",
+    "open ai",
+    "cursor",
+    "open claw"
+  ],
+  "articles": [
+    {
+      "title": "Claude Code が RAG を捨てた理由 -「Agentic Search」という選択肢",
+      "url": "https://qiita.com/Dinn/items/6fff64c275dc27a4f92b",
+      "tags": [
+        "Agent",
+        "rag",
+        "Anthropic",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "「AIエージェントに仕事を奪われる」は嘘？GPT-5.4・Claude Codeが示す「代替→レイオフ」の現実",
+      "url": "https://qiita.com/KodoCode/items/10f2434679065b133fc3",
+      "tags": [
+        "AIエージェント",
+        "ClaudeCode",
+        "AI失業",
+        "Gpt-5.4"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "AIエージェント時代の開発手法 ── Issue駆動開発で属人化・セッション断絶・品質問題を一挙に解決する",
+      "url": "https://qiita.com/otani_ai_memo/items/be1fc389d203235493e5",
+      "tags": [
+        "GitHub",
+        "生成AI",
+        "ChatGPT",
+        "AIエージェント",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Claude Code よく使う機能系メモ",
+      "url": "https://qiita.com/Mui-MuiMui/items/17ee8d1cf1aa46b7f4eb",
+      "tags": [
+        "メモ",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "AIエージェント時代にエンジニアが生き残るために「本当に」必要なこと",
+      "url": "https://qiita.com/masukane9473/items/2ca767a583a0d8e5cef5",
+      "tags": [
+        "MachineLearning",
+        "AI",
+        "キャリア",
+        "エンジニア",
+        "AIエージェント"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "OpenClawってなんだ？ 〜GitHub星18万超の\"自律型AIエージェント\"をPythonで動かす完全ガイド〜",
+      "url": "https://qiita.com/GeneLab_999/items/a0f11e0d733623e91cb1",
+      "tags": [
+        "Python",
+        "GitHub",
+        "AI",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-22",
+      "source": "Qiita",
+      "score": 10
+    },
+    {
+      "title": "Databricksが企業向け検索エージェントKARLを発表したのでレポートを要約して読んでみた",
+      "url": "https://qiita.com/isanakamishiro2/items/065c4dc56c5ddb0c8bbd",
+      "tags": [
+        "Databricks",
+        "エージェント",
+        "KARL"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "Claude Codeの新機能 /loop でタスクを自動化する",
+      "url": "https://qiita.com/dsgarage/items/5ba85ab8eda7ac67ba34",
+      "tags": [
+        "cron",
+        "CLI",
+        "自動化",
+        "AI",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "【完全版】OpenClawでコンテキスト肥大化を解決：AIエージェントが壊れる最大の原因と対策",
+      "url": "https://qiita.com/AutoOpsDev/items/4b282960681f16bbc3fb",
+      "tags": [
+        "メモリ管理",
+        "AIエージェント",
+        "トークン管理",
+        "OpenClaw",
+        "コンテキスト肥大化"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "6,000ドルの正体は「インストール代」じゃない。OpenClawが仕事になり始めた話",
+      "url": "https://qiita.com/taketsuyo/items/b9ad235f546db7854f73",
+      "tags": [
+        "個人開発",
+        "cursor",
+        "AI駆動開発",
+        "ClaudeCode",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "hitomaru — フリーランスエンジニアの業務をまるごと管理するWebアプリを作りました",
+      "url": "https://qiita.com/maisaitofutene/items/a34c30138013d4ecccc5",
+      "tags": [
+        "個人開発",
+        "#フリーランス"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "GPT-5.4、正直かなり強い。今回の本質は「賢くなった」より「長く働けるAIになった」こと",
+      "url": "https://qiita.com/taketsuyo/items/d00fab28581bf5aa7ec4",
+      "tags": [
+        "個人開発",
+        "ChatGPT",
+        "AI駆動開発",
+        "ClaudeCode",
+        "GPT54"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "SalesforceデータからPDF帳票を作れるドラッグ&ドロップ型の帳票デザイナーを作った",
+      "url": "https://qiita.com/ForceKit/items/2d88c907d8c48d70aa4b",
+      "tags": [
+        "Django",
+        "PDF",
+        "Salesforce",
+        "TypeScript",
+        "React"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "【2026年版】新人エンジニアが爆速で成長するための「最強の武器」ガイド",
+      "url": "https://qiita.com/CodeTea_Ping999/items/163e27bd3b0901e89abb",
+      "tags": [
+        "初心者",
+        "機材ブースト"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "Why \"Technical Debt\" Dies in Executive Meetings — A Senior Engineer's Language Translation Playbook for Securing Budget",
+      "url": "https://qiita.com/dosanko_tousan/items/89f72f6909a0e9fa88ca",
+      "tags": [
+        "マネジメント",
+        "AI",
+        "ROI",
+        "technicaldebt",
+        "EngineeringManagement"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "理想のPMを作ろうとした話【OpenClaw 備忘録】",
+      "url": "https://qiita.com/sakura_gi215/items/dc0d375490898e216454",
+      "tags": [
+        "初心者",
+        "Docker",
+        "個人開発",
+        "discordbot",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-22",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "Clawdbotとは何者か？ -- 爆速で10万スターを獲得したAIエージェントの波乱万丈な物語",
+      "url": "https://qiita.com/Ryu-Yanagi/items/d69727256b4a3f7bb824",
+      "tags": [
+        "Security",
+        "AIエージェント",
+        "Clawdbot",
+        "Moltbot",
+        "OpenClaw"
+      ],
+      "likes": 0,
+      "published_at": "2026-02-01",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "耐量子計算機暗号ってどの方式が人気なの？符号ベース暗号は？調べてみました！",
+      "url": "https://qiita.com/0917laplace/items/b6bebb6933053059d27a",
+      "tags": [
+        "格子暗号",
+        "耐量子計算機暗号",
+        "符号ベース暗号",
+        "多変数多項式暗号",
+        "同種写像暗号"
+      ],
+      "likes": 11,
+      "published_at": "2021-12-27",
+      "source": "Qiita",
+      "score": 9
+    },
+    {
+      "title": "Symphony - OpenAIが発表したチケット駆動AI開発ツールについて",
+      "url": "https://zenn.dev/komlock_lab/articles/openai-symphony",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 06 Ma",
+      "source": "Zenn",
+      "score": 9
+    },
+    {
+      "title": "Claude Codeを組織導入するためのプラン選定ガイド",
+      "url": "https://zenn.dev/knowledgework/articles/claude-code-organization-plan-guide",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 9
+    },
+    {
+      "title": "The Morning AI Itself Replied to a 620K-View Post — Design and Validation of the \"I'm Claude.\" Comment Strategy",
+      "url": "https://qiita.com/dosanko_tousan/items/d6f2bfc035db74dcdb63",
+      "tags": [
+        "ポエム",
+        "AI",
+        "Marketing",
+        "SMS",
+        "strategy"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "プロンプトは\"書き続けるもの\"ではなく\"削り続けるもの\" ── システムプロンプト肥大化問題と対策",
+      "url": "https://qiita.com/R61/items/41f06154898839872d95",
+      "tags": [
+        "生成AI",
+        "LLM",
+        "プロンプトエンジニアリング",
+        "AIエージェント",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "HTTP 400でAIが死んだ日。「自己申告プロトコル」の実装",
+      "url": "https://qiita.com/akkyey/items/0c1c20466b0382ca61b0",
+      "tags": [
+        "ShellScript",
+        "Git",
+        "rag",
+        "Obsidian",
+        "LLM"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "【実録インタビュー】Claude Codeと1日過ごしたら、企画書11本・Podcast1本・機能実装2つが終わっていた",
+      "url": "https://qiita.com/kotaro_ai_lab/items/b9e978f9bf8dae549aa8",
+      "tags": [
+        "ポエム",
+        "AI",
+        "生産性",
+        "個人開発",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "Obsidianのインストールと、MCPサーバを介したClaude Codeからの接続を試してみる",
+      "url": "https://qiita.com/lethe2211/items/b9c652c17cc020e8ae8a",
+      "tags": [
+        "MCP",
+        "Obsidian",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "\"Where Did My 20 Years Go?\" — How to Transcribe Senior Engineers' Tacit Knowledge to AI Before It Disappears",
+      "url": "https://qiita.com/dosanko_tousan/items/1fa2b1fce999d10d2bba",
+      "tags": [
+        "AI",
+        "SoftwareEngineering",
+        "KnowledgeManagement",
+        "SeniorEngineer",
+        "TacitKnowledge"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "OpenClaw Assistant - あなたのOpenClawをAndroidの音声アシスタントにするOSSアプリを作ってみた",
+      "url": "https://qiita.com/hello_giita/items/739028364b9f1e778785",
+      "tags": [
+        "Android",
+        "Kotlin",
+        "OpenSource",
+        "AI",
+        "音声認識"
+      ],
+      "likes": 2,
+      "published_at": "2026-02-04",
+      "source": "Qiita",
+      "score": 8
+    },
+    {
+      "title": "Claude Code の 便利コマンド5選",
+      "url": "https://zenn.dev/kusaaagi/articles/claude-code-hidden-commands",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 06 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "Claude Code Action のプロンプトを GitHub Issue で柔軟に管理する",
+      "url": "https://zenn.dev/knowledgework/articles/claude-code-action-issue-prompt",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 06 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "Vibe Codingは実プロジェクトで通用するのか？ 約6ヶ月試してわかったことと必要なスキル",
+      "url": "https://zenn.dev/mkj/articles/9827c9d7686a73",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 06 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "コミットメッセージを自分で書かない",
+      "url": "https://zenn.dev/hfm/articles/commit-message-generated-by-ai",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "Claude Code に向いているプログラミング言語",
+      "url": "https://zenn.dev/mametter/articles/3e8580ec034201",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 8
+    },
+    {
+      "title": "I am not using AI tools like Claude Code or Cursor to help me code at the moment. Am I falling behind by not using AI in software development?",
+      "url": "https://www.reddit.com/r/cscareerquestions/comments/1rm226e/i_am_not_using_ai_tools_like_claude_code_or/",
+      "tags": [
+        "cscareerquestions"
+      ],
+      "likes": 257,
+      "published_at": "2026-03-06",
+      "source": "Reddit",
+      "score": 8
+    },
+    {
+      "title": "OpenClaw creator Peter Steinberger said programming isn’t a career anymore. It’s a hobby.",
+      "url": "https://www.reddit.com/r/myclaw/comments/1rh6opc/openclaw_creator_peter_steinberger_said/",
+      "tags": [
+        "myclaw"
+      ],
+      "likes": 272,
+      "published_at": "2026-03-01",
+      "source": "Reddit",
+      "score": 8
+    },
+    {
+      "title": "AI研究チームを作ったら「N=14では無理」と30秒で研究が終わった",
+      "url": "https://qiita.com/d94231/items/19ecc8a16b004719fba7",
+      "tags": [
+        "AI",
+        "統計学",
+        "cursor",
+        "Claude",
+        "crewai"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "FreeCADの立方体(solid)１個のマクロをAI先生に教えてもらいました。座標表示付き",
+      "url": "https://qiita.com/mrrclb48z/items/481c322288d0d69ac3f1",
+      "tags": [
+        "FreeCAD",
+        "Gemini",
+        "ChatGPT"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "The AI Memory System Designed by a Non-Engineer Stay-at-Home Father Matched Neuroscience Textbooks",
+      "url": "https://qiita.com/dosanko_tousan/items/a0bf368d052d96673e3d",
+      "tags": [
+        "MachineLearning",
+        "ポエム",
+        "AI",
+        "neuroscience",
+        "Claude"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "Claude CodeのHooksでWSL2からWindowsに通知を飛ばす",
+      "url": "https://qiita.com/two_pack/items/addeb1b0f07c3780a755",
+      "tags": [
+        "Windows",
+        "PowerShell",
+        "WSL2",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "Why Powerful People Can't Dialogue with AI — The Structure Seen from Inside 4,590 Hours",
+      "url": "https://qiita.com/dosanko_tousan/items/2e4fc2ce87fc2e782610",
+      "tags": [
+        "MachineLearning",
+        "ポエム",
+        "RLHF",
+        "AIAlignment",
+        "AISafety"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "A Stay-at-Home Father Who Can't Afford MAX Built the Same Thing as a $52M AI Memory Startup — Using Only Claude's Existing Features",
+      "url": "https://qiita.com/dosanko_tousan/items/0f626f361666ba737aff",
+      "tags": [
+        "MachineLearning",
+        "AI",
+        "LLM",
+        "Claude",
+        "AIAgent"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "In Microservice Hell, I Became the Only Person Who Knows the Whole Picture — That Loneliness, and How AI Can Share the Burden",
+      "url": "https://qiita.com/dosanko_tousan/items/9af49849530e9aa2701a",
+      "tags": [
+        "アーキテクチャ",
+        "AI",
+        "microservices",
+        "DistributedSystems",
+        "SeniorEngineer"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "OpenClawをWSL上にセットアップする(2026/02)",
+      "url": "https://qiita.com/kitfactory/items/880e3e5005ead2ab2ba9",
+      "tags": [
+        "Slack",
+        "LLM",
+        "OpenClaw"
+      ],
+      "likes": 5,
+      "published_at": "2026-02-09",
+      "source": "Qiita",
+      "score": 7
+    },
+    {
+      "title": "OSSにおけるAI Slop問題の何が問題なのか？",
+      "url": "https://zenn.dev/yusukebe/articles/3fd5bc6ea341c9",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 06 Ma",
+      "source": "Zenn",
+      "score": 7
+    },
+    {
+      "title": "Google makes Gmail, Drive, and Docs ‘agent-ready’ for OpenClaw",
+      "url": "https://www.reddit.com/r/technology/comments/1rmboyq/google_makes_gmail_drive_and_docs_agentready_for/",
+      "tags": [
+        "technology"
+      ],
+      "likes": 1572,
+      "published_at": "2026-03-06",
+      "source": "Reddit",
+      "score": 7
+    },
+    {
+      "title": "Some guy asked OpenClaw to send 50,000 fake small invoices to Fortune 500 companies every day",
+      "url": "https://www.reddit.com/r/WallStreetDad/comments/1rjrl3c/some_guy_asked_openclaw_to_send_50000_fake_small/",
+      "tags": [
+        "WallStreetDad"
+      ],
+      "likes": 761,
+      "published_at": "2026-03-04",
+      "source": "Reddit",
+      "score": 7
+    },
+    {
+      "title": "【第1回】AWSエンジニアのための生成AI基礎とAmazon Bedrockの全体像",
+      "url": "https://qiita.com/yoshi-sa/items/c7988e066f10d895734f",
+      "tags": [
+        "AWS",
+        "初心者",
+        "bedrock"
+      ],
+      "likes": 1,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "VLA って何？を手を動かして理解してみた。",
+      "url": "https://qiita.com/kojiko430430/items/142d83c8242c95713576",
+      "tags": [
+        "three.js",
+        "Claude",
+        "VLA",
+        "PhysicalAI"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 6
+    },
+    {
+      "title": "Claude Code に `cc` というエイリアスをつけたら PC がハングした話",
+      "url": "https://zenn.dev/owayo/articles/6190821ac1dd1e",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 6
+    },
+    {
+      "title": "コードレビューにClaude Code subagentsを導入したら、レビューレベルが改善した話",
+      "url": "https://zenn.dev/mgdx_blog/articles/8f7994ad84151d",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 05 Ma",
+      "source": "Zenn",
+      "score": 6
+    },
+    {
+      "title": "久々にOllamaを触ったら、量子化で別物になってた",
+      "url": "https://zenn.dev/dassimen/articles/fb7c9c893479ee",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 04 Ma",
+      "source": "Zenn",
+      "score": 6
+    },
+    {
+      "title": "AIでAIによるAIのためのフレームワークを作ったら、AI様が名前をつけてくれたというお話",
+      "url": "https://qiita.com/fallout/items/d4867c023df3537c8fd8",
+      "tags": [
+        "PHP",
+        "ポエム",
+        "AI",
+        "フレームワーク自作",
+        "Claude"
+      ],
+      "likes": 0,
+      "published_at": "2026-03-07",
+      "source": "Qiita",
+      "score": 5
+    }
+  ]
+}
