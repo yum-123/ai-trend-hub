@@ -1,0 +1,794 @@
+{
+  "date": "2026-08-20",
+  "keywords": [
+    "AI",
+    "AIエージェント",
+    "LLM",
+    "個人開発",
+    "claude code",
+    "open ai",
+    "cursor",
+    "open claw"
+  ],
+  "articles": [
+    {
+      "title": "【海外テック動向】WebAudioの意外な罠やスクレイピングの課題など注目記事3選",
+      "url": "https://qiita.com/tanakanekosuke/items/245c4eea914d648dc067",
+      "tags": [
+        "Python",
+        "GitHub",
+        "AI",
+        "Trend"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AIに任せたはずなのに、毎回同じ手直しが戻ってくる",
+      "url": "https://qiita.com/tashua314/items/00b89c0b83c2a224162c",
+      "tags": [
+        "エンジニア",
+        "コミュニケーション",
+        "提案"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI Daily Digest 2026-08-21：Meta×Microsoft、Marvell×Google、Claudeタンパク質設計",
+      "url": "https://qiita.com/lhjjjk4/items/0d7356659ece4279bbc8",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "meta",
+        "ハードウェア",
+        "Robotics"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "「あの深夜に書いた最高の一節なんだっけ？」を二度と言わないために、己の記憶をゼロトラストしてAlloyDB ✕ pgvectorの曖昧検索要塞を作った",
+      "url": "https://qiita.com/kuis/items/79ff54f2c105ce90e255",
+      "tags": [
+        "CloudRun",
+        "AlloyDB",
+        "pgvector"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI Gateway入門～トークンとコンテキスト",
+      "url": "https://qiita.com/mellowlaunch/items/396896c632ad010c0dbd",
+      "tags": [
+        "AIGateway",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AIエージェントが誰でも作れる時代に、IT部門は何を管理するのか",
+      "url": "https://qiita.com/mhamadajp/items/e3e804af56cf57570aaf",
+      "tags": [
+        "AIエージェント",
+        "MicrosoftFoundry",
+        "Agent365",
+        "AIガバナンス",
+        "ModelRouter"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude Code ではなく Claude Desktop を使うメリット",
+      "url": "https://qiita.com/shokan/items/524c376889317641626e",
+      "tags": [
+        "ClaudeCode",
+        "ClaudeDesktop",
+        "Claude",
+        "LLM"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "ChatGPT「Computer History」を整理。記録の範囲・48時間削除・平文保存の論点",
+      "url": "https://qiita.com/quotidia/items/bd1e3c8d541d3cdb9419",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "生成AI",
+        "LLM",
+        "プライバシー"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI時代の根性論 長時間労働ではなく仮説・検証・改善を続ける仕事術",
+      "url": "https://qiita.com/s_horikoshi/items/5d971897de52aa8666a6",
+      "tags": [
+        "生成AI",
+        "AI",
+        "プロンプトエンジニアリング",
+        "生産性",
+        "エンジニア"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "【さくらAIで転生小説を書いてみるシリーズ第9回】AI小説の読みやすさを決めるのは、モデルかプロンプトか",
+      "url": "https://qiita.com/TheGateBreaker/items/39b64507244471723b49",
+      "tags": [
+        "さくらのAI",
+        "ClaudeCode",
+        "ChatGPT"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "2026/8/21主にITとかセキュリティの記事",
+      "url": "https://qiita.com/pitopito/items/473c286794eaf84a53bd",
+      "tags": [
+        "Security",
+        "ニュース"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "初めてのAI駆動開発。「コードは1行も書かない」縛りで勤怠管理アプリを1ヶ月で本番公開した全8ステップ",
+      "url": "https://qiita.com/inoyu-qiita/items/912b038105f5cf057224",
+      "tags": [
+        "ClaudeCode",
+        "AI駆動開発",
+        "Next.js",
+        "Supabase",
+        "AI"
+      ],
+      "likes": 1,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "【今日から俺もFDE #2】ChatGPTは「うちの会社」を知らない — 社内ChatBotを最短で作る方法（後編）",
+      "url": "https://qiita.com/udowanllc/items/489deb269045ae13299e",
+      "tags": [
+        "生成AI",
+        "rag",
+        "LLM",
+        "Text-to-SQL",
+        "AWS"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "【今日から俺もFDE #1】ChatGPTは「うちの会社」を知らない — 社内ChatBotを最短で作る方法（前編）",
+      "url": "https://qiita.com/udowanllc/items/a4057378d49f971d4fc5",
+      "tags": [
+        "生成AI",
+        "rag",
+        "Gemini",
+        "copilot",
+        "GoogleWorkspace"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "議事録も実験結果も全部mdに ── 松尾研究所の半分以上のプロジェクトで動く「LLM Wiki」を勉強会で覗いてきた",
+      "url": "https://qiita.com/inoyu-qiita/items/933228c1d16cc3b72833",
+      "tags": [
+        "LLM",
+        "AIエージェント",
+        "ClaudeCode",
+        "勉強会",
+        "イベントレポート"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "【UE5】AI開発でのブループリント問題、商用ゲーム採用実績170万行の言語で解決できるかもしれない。調査した結果。【AngelScript】",
+      "url": "https://qiita.com/EXPEVODEV/items/e176656b6531b8570ccc",
+      "tags": [
+        "ue5",
+        "AngelScript",
+        "UnrealEngine",
+        "AI",
+        "ゲーム開発"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "Bedrockを調べていたら、Claude Codeのハーネスの理解がちょっとだけ深まった話",
+      "url": "https://qiita.com/makoware/items/05e398627a1f3b5d4176",
+      "tags": [
+        "AWS",
+        "bedrock",
+        "ClaudeCode",
+        "AIエージェント",
+        "ハーネスエンジニアリング"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "AIに仕事を奪われる不安から始めるハーネス作成入門 第24回  12週間のハーネス連載を振り返り、次に作るAI基盤を決める",
+      "url": "https://qiita.com/singula/items/f3b49c33d941feaf899b",
+      "tags": [
+        "AI",
+        "AIエージェント",
+        "AI活用",
+        "ハーネスエンジニアリング",
+        "ハーネス設計"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "URLエンコードのencodeURIComponentとencodeURIを使い分ける — 残る記号・空白と+の罠・UTF-8パーセント",
+      "url": "https://qiita.com/sakutto-panda/items/fc873e5b2aefb79bd4cc",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "フロントエンド",
+        "個人開発"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "Amazon LeoとStarlink、衛星インターネット戦争の中間報告(2026年8月版)",
+      "url": "https://qiita.com/yama3133/items/d7e810ff94a8a46c6ff2",
+      "tags": [
+        "AWS",
+        "AmazonLeo",
+        "Starlink",
+        "ロケット",
+        "宇宙"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "マガジン連載、1週間お休みします。その代わりに「AIと自分でサイトを作るということ」について語らせてください",
+      "url": "https://qiita.com/saikoseiko/items/f0207ac64f0e35bd76da",
+      "tags": [
+        "AIエンジニア",
+        "Web制作",
+        "サイト開発",
+        "AI活用",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "香港国際空港でClaude CodeもCodexも使えなかった話。原因はGreat Firewallじゃなかった",
+      "url": "https://qiita.com/yama3133/items/ab410695d4bbdfe62c76",
+      "tags": [
+        "AWS",
+        "ClaudeCode",
+        "codex",
+        "bedrock",
+        "GreatFireWall"
+      ],
+      "likes": 1,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude Code の利用ログを SQLite に取り込んで API 換算したら302万円だった",
+      "url": "https://qiita.com/chiisanasoft/items/9c9512b08507515f3c59",
+      "tags": [
+        "ClaudeCode",
+        "Claude",
+        "生成AI",
+        "SQLite",
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "【さくらのAI】🔰さくらのAIを使って、はじめてのLLMゲームを作ろう【請求0円/3000回】",
+      "url": "https://qiita.com/Subara3/items/40d0ac108455fede37aa",
+      "tags": [
+        "さくらのAI",
+        "LLM",
+        "初心者",
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "プロンプトインジェクションの「その後」を設計する — エージェントフレームワークの信頼境界",
+      "url": "https://qiita.com/ryoji9702/items/4e14d1976bd0eb3f815c",
+      "tags": [
+        "Security",
+        "LLM",
+        "プロンプト"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "「なんとなく集中できなかった」をやめるために集中力を可視化した話",
+      "url": "https://qiita.com/rito0235-1/items/82e1ba45bd0d6ca2df0c",
+      "tags": [
+        "Obsidian",
+        "Hammerspoon",
+        "ClaudeCode",
+        "生産性向上",
+        "タスク管理"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "システムRAMを30GB→64GBに増設したら、ローカルで死んでいた音楽生成AIが動いた — MiniMax-Music3 実測",
+      "url": "https://qiita.com/masafy/items/3af0b34e715542513ea7",
+      "tags": [
+        "生成AI",
+        "音楽生成",
+        "GPU",
+        "Python",
+        "Minimax"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "【さくらのAI Engine】よわよわモデルがつよつよモデルになれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+      "url": "https://qiita.com/kahiroka/items/88ee6e525f214fb00186",
+      "tags": [
+        "さくらのAI"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "ジャストアイディア、AI用　Experience Memory　仕様書",
+      "url": "https://qiita.com/7GHz/items/cbec8922fe3a41874961",
+      "tags": [
+        "AI"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "Shadcn Tooltip Examples and Best Practices for React",
+      "url": "https://qiita.com/wrappixel/items/5834768aef7cf27ed533",
+      "tags": [
+        "shadcn",
+        "Next.js",
+        "React",
+        "WebDesign"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI時代のコードレビュー：PRをボトルネックにしないセルフレビューの仕組み",
+      "url": "https://qiita.com/anhnguyen1/items/325af5304316f5bead37",
+      "tags": [
+        "codereview",
+        "AI",
+        "pullrequest",
+        "OpenSource",
+        "ClaudeCode"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "ExaDB-XSでData GuardのSnapshot Standbyを作成してみる",
+      "url": "https://qiita.com/mo__mo/items/41b406ba2e8958a52fbe",
+      "tags": [
+        "oci",
+        "oracle",
+        "dataguard"
+      ],
+      "likes": 1,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "GNU Emacs 23.4 対応を残したまま dot_emacs をモダナイズした",
+      "url": "https://qiita.com/ynakayama/items/9308429c22904d158556",
+      "tags": [
+        "Emacs",
+        "EmacsLisp",
+        "dotfiles",
+        "Linux",
+        "macOS"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-21",
+      "source": "Qiita"
+    },
+    {
+      "title": "うまくいかなかったことで理解が深まった「display: inline-block;」の正体",
+      "url": "https://qiita.com/Nsh0/items/bcfc023077aa9ee29bd3",
+      "tags": [
+        "初心者",
+        "HTML",
+        "CSS"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "Cursor 500億ドルの正体｜SpaceXが買った「利益率の罠」",
+      "url": "https://qiita.com/kinamocchi_tech/items/078741e9a1df785cdb55",
+      "tags": [
+        "cursor",
+        "AIコーディング",
+        "ClaudeCode",
+        "GitHubCopilot",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "[Python] Windowsで複数行のコンソール出力を上書きする簡易サンプル",
+      "url": "https://qiita.com/BlueSilverCat/items/8836713e1c559bd7bb3f",
+      "tags": [
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "これからのAI開発ツールは「GitHub Copilot」と「Cline」に集約される",
+      "url": "https://qiita.com/lowgain/items/907ef13d8dfe4a23ab77",
+      "tags": [
+        "GitHubCopilot",
+        "cline",
+        "AIエージェント",
+        "MCP",
+        "生成AI"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "AGENTS.md を共有したつもりが、Claude Code だけ古い指示を読んでいた",
+      "url": "https://qiita.com/jqit_suwa/items/c87c377fa192de27e2a1",
+      "tags": [
+        "ClaudeCode",
+        "AI",
+        "生成AI",
+        "Windows",
+        "開発環境"
+      ],
+      "likes": 5,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "【保存版】現場で本当に効くRust言語のTips 25選 - 所有権・エラー処理・非同期の勘所",
+      "url": "https://qiita.com/Sakaaaaai/items/7cb9df830fcfa68f762d",
+      "tags": [
+        "Rust",
+        "バックエンド",
+        "初心者",
+        "tips"
+      ],
+      "likes": 1,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI Daily Digest 2026-08-20: Anthropic $65B、Samsung 15%値上げ、WRC2026",
+      "url": "https://qiita.com/lhjjjk4/items/cf5431f07fd5e73a18a9",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Samsung",
+        "ロボット",
+        "半導体"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "Cursorクラウドエージェント大型強化:自動起動・独立VM・/goalまとめ",
+      "url": "https://qiita.com/picnic/items/e8df41afa2d1115982c7",
+      "tags": [
+        "cursor",
+        "AI",
+        "LLM",
+        "Agent",
+        "開発ツール"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-20",
+      "source": "Qiita"
+    },
+    {
+      "title": "Midnight AI Groove 26-08-10",
+      "url": "https://qiita.com/masykot582/items/112d3ed5810274b60259",
+      "tags": [
+        "Midnight",
+        "AI",
+        "groove",
+        "ChatGPT"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-14",
+      "source": "Qiita"
+    },
+    {
+      "title": "【第2回】OpenCodeでiGPUを遊ばせない: タイトル生成とRAGを分離してdGPUを推論に専念させる",
+      "url": "https://qiita.com/settembre21/items/bdac940ca8135212810f",
+      "tags": [
+        "LLM",
+        "opencode",
+        "rag",
+        "ローカルLLM",
+        "GPU"
+      ],
+      "likes": 1,
+      "published_at": "2026-07-25",
+      "source": "Qiita"
+    },
+    {
+      "title": "Show Us Your Claw! と言われたので Build-a-Claw Tokyo に見せに行った",
+      "url": "https://qiita.com/TT-Resolver/items/2fdd911d33a62158c513",
+      "tags": [
+        "NVIDIA",
+        "イベントレポート",
+        "DGXSpark",
+        "PhysicalAI",
+        "OpenClaw"
+      ],
+      "likes": 2,
+      "published_at": "2026-07-15",
+      "source": "Qiita"
+    },
+    {
+      "title": "AIコーディングエージェントに「記憶」を持たせる claw-memory を作った話（アーキテクチャ解説）",
+      "url": "https://qiita.com/nogataka/items/b044885156acf5370b06",
+      "tags": [
+        "SQLite",
+        "TypeScript",
+        "AI",
+        "MCP",
+        "Claude"
+      ],
+      "likes": 7,
+      "published_at": "2026-06-01",
+      "source": "Qiita"
+    },
+    {
+      "title": "【毎日更新】Claude Code向けスキル・MCP・関連ツール人気ランキングTOP100をGitHubスターで自動集計",
+      "url": "https://qiita.com/TakanobuSano/items/1d98dd5fb49ce99bd288",
+      "tags": [
+        "Python",
+        "GitHub",
+        "MCP",
+        "GitHubActions",
+        "ClaudeCode"
+      ],
+      "likes": 1,
+      "published_at": "2026-05-31",
+      "source": "Qiita"
+    },
+    {
+      "title": "Moonshot AI Kimi K2.6とは──5日間連続自律と300エージェント並列を実現する1兆MoE",
+      "url": "https://qiita.com/Yushi88/items/5a02c8ccc8c01eea70b7",
+      "tags": [
+        "LLM",
+        "MoE",
+        "AIエージェント",
+        "Moonshot",
+        "最新テック活用事例"
+      ],
+      "likes": 0,
+      "published_at": "2026-05-30",
+      "source": "Qiita"
+    },
+    {
+      "title": "OpenClaw を実務で活用するには？おすすめのオープンソースツール 5 選",
+      "url": "https://qiita.com/TianqiYuan/items/e450f00fbaa7d1de954f",
+      "tags": [
+        "OpenSource",
+        "AI",
+        "AIエージェント",
+        "OpenClaw"
+      ],
+      "likes": 2,
+      "published_at": "2026-05-27",
+      "source": "Qiita"
+    },
+    {
+      "title": "Deno 謹製のAIエージェント用ファイヤーウォール 「Claw Patrol」で外部からAIエージェントを制御する",
+      "url": "https://qiita.com/sigma_devsecops/items/8db7d10d6c80eb39027d",
+      "tags": [
+        "Security",
+        "Firewall",
+        "Deno",
+        "AIエージェント",
+        "ClawPatrol"
+      ],
+      "likes": 1,
+      "published_at": "2026-05-25",
+      "source": "Qiita"
+    },
+    {
+      "title": "セキュリティが心配な人のための OpenClaw 代替 9 候補",
+      "url": "https://qiita.com/yonaka15/items/c30383f097024d4a14ec",
+      "tags": [
+        "Security",
+        "AI",
+        "AIエージェント",
+        "OpenClaw",
+        "fudebako-agent"
+      ],
+      "likes": 2,
+      "published_at": "2026-05-06",
+      "source": "Qiita"
+    },
+    {
+      "title": "【ハーネスエンジニアリングを始める前に】gpt-oss:20b の入出力データから、LLMの動作を理解する",
+      "url": "https://qiita.com/hara2dev/items/193e57c8c19bfa68aa5f",
+      "tags": [
+        "AI",
+        "GPT-OSS-20B",
+        "ハーネスエンジニアリング",
+        "ハーネス"
+      ],
+      "likes": 2,
+      "published_at": "2026-04-13",
+      "source": "Qiita"
+    },
+    {
+      "title": "首掛け型ウェアラブル THINKLET と OpenAI Realtime API で「目の前を一緒に見ながら相談できる相方」を作る",
+      "url": "https://zenn.dev/yujif/articles/90696ac3f098e2",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 19 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "時相論理の形式仕様の Quint を使って、denoland/celld の二重 writer バグを見つけた",
+      "url": "https://zenn.dev/mizchi/articles/quint-application-modeling",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 19 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "YANS2026 参加報告",
+      "url": "https://zenn.dev/aishift/articles/78612006a494ca",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 19 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた",
+      "url": "https://zenn.dev/pksha/articles/e5c8f9b2a41d73",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 19 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "ローカルLLM編成が単独のフロンティアAIを超えた日",
+      "url": "https://zenn.dev/nrs/articles/b920540a64e1a1",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 18 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "AWS の新ポリシー言語 Dogwood を試す",
+      "url": "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 18 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Claude Codeに見せない技術: AIに入力できないデータを分析する",
+      "url": "https://zenn.dev/green_tea/articles/a994964786cb4f",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 18 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "コーディングエージェントが実装するUIの品質を上げるためにやったこと",
+      "url": "https://zenn.dev/moshjp/articles/39972d023f0440",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 18 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Rust製のマルチプラットフォーム開発フレームワーク「Whisker」を作りました",
+      "url": "https://zenn.dev/itome/articles/e087c6d11d0bd2",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Tue, 18 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Markdownノートを日本語で全文検索できるCLI「mikke」を作った",
+      "url": "https://zenn.dev/kimushun1101/articles/mikke-markdown-search-cli",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 17 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "AIエージェントはなぜテストを握り潰すのか ― 報酬エンジニアリングのすすめ",
+      "url": "https://zenn.dev/ito/articles/6b042aa27d65bc",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 17 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Webサービスのスクショ付きガイドブックをPlaywright + LLMで自動生成・更新できるようにした",
+      "url": "https://zenn.dev/dev_commune/articles/acb91817341f8f",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 17 Au",
+      "source": "Zenn"
+    },
+    {
+      "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
+      "url": "https://zenn.dev/aun_phonogram/articles/3f8c1a7b5d902e",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Sun, 16 Au",
+      "source": "Zenn"
+    }
+  ]
+}
