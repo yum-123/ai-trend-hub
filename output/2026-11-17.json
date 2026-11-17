@@ -1,0 +1,877 @@
+{
+  "date": "2026-11-17",
+  "keywords": [
+    "AI",
+    "AIエージェント",
+    "LLM",
+    "個人開発",
+    "claude code",
+    "open ai",
+    "cursor",
+    "open claw"
+  ],
+  "articles": [
+    {
+      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-11-17",
+      "url": "https://qiita.com/aakan/items/229518da20a19ee50915",
+      "tags": [
+        "man",
+        "ニュース",
+        "AI",
+        "GenAI"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Agent SkillsがLinux Foundation傘下に——手持ちの27スキルを仕様で検査したら6本が不合格",
+      "url": "https://qiita.com/sakutto-panda/items/308bcb354f3527d03b09",
+      "tags": [
+        "ClaudeCode",
+        "Claude",
+        "Anthropic",
+        "AI",
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "なぜ人はだまされるのか ── 開発者のための、選択理論心理学で解くソーシャルエンジニアリング【CySec復習ログ 3IN#8】",
+      "url": "https://qiita.com/amu-kuroneko/items/dec53fb0d785f815a1a9",
+      "tags": [
+        "ソーシャルエンジニアリング",
+        "Security",
+        "CySec",
+        "心理学",
+        "情報セキュリティ"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "WordPressの共通フレームは本当に効率的なのか？ 制作・保守の7項目から考えてみる",
+      "url": "https://qiita.com/Soleil-design/items/a904a714b36bc3c8d2d2",
+      "tags": [
+        "WordPress",
+        "PHP",
+        "Web制作",
+        "AI",
+        "テーマ開発"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【AWS AIサービス解説③】Amazon Q Developerとは？",
+      "url": "https://qiita.com/Aki-Dortu/items/193a600786926f48c3c1",
+      "tags": [
+        "AWS",
+        "AmazonQDeveloper",
+        "生成AI",
+        "Kiro",
+        "CloudFormation"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Uncensored AI Image Generator：GenBunnyでキャラクター画像から動画へ",
+      "url": "https://qiita.com/genbunny_guides/items/87a0a8912e944bc3bcec",
+      "tags": [
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI教育学の時代：AIをLoRAで鍛える時代",
+      "url": "https://qiita.com/takaokotani/items/bfe216d0441355d6d5b5",
+      "tags": [
+        "AI教育",
+        "Transformer",
+        "第一原理計算",
+        "AI教育学"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "勤怠の打ち忘れ申請をAIに整理させるとき、先に決めておくのは「直す理由」の一語欄",
+      "url": "https://qiita.com/satoshimizuhara/items/c2bb56d864b6bc2b4e63",
+      "tags": [
+        "AI活用",
+        "業務改善",
+        "勤怠管理",
+        "非エンジニア",
+        "DX"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "n8nのワークフロー自動化、AIエージェント統合を検討する視点",
+      "url": "https://qiita.com/gitmeshi/items/3e373064542ec43b745c",
+      "tags": [
+        "n8n",
+        "workflowautomation",
+        "AIAgent"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Antigravityのすゝめ　for students",
+      "url": "https://qiita.com/chapp3070/items/cacff223ff13fce7f025",
+      "tags": [
+        "Antigravity",
+        "AIエージェント",
+        "大学生"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【Autonomous AI Database】ADB-S@AzureのMCPサーバーにVS Code＋Clineから接続する",
+      "url": "https://qiita.com/marfujim/items/9018cba516cc1cbb31ba",
+      "tags": [
+        "Azure",
+        "oci",
+        "autonomous_database",
+        "MCP",
+        "cline"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "初心者向け：シンプルなディレクトリ構成を理解する",
+      "url": "https://qiita.com/pan_slj/items/b008009abf31cba4c786",
+      "tags": [
+        "codex",
+        "AIエージェント",
+        "初心者"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "個人開発の相棒にAIエージェント「Muse」を使って、駐車場データベースを構築・運用している話",
+      "url": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "tags": [
+        "個人開発",
+        "AI",
+        "Muse"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "マルチテナントRAGの検索で他社文書が混ざらないかをpytestで自動検査する",
+      "url": "https://qiita.com/takumi_engineer/items/461472ef70735d1196be",
+      "tags": [
+        "Python",
+        "pytest",
+        "rag",
+        "PostgreSQL",
+        "マルチテナント"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude Code v2.1.326 破壊的変更まとめ：サンドボックス・権限・auto mode",
+      "url": "https://qiita.com/picnic/items/4318a3607391b42b6a00",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "ClaudeCode",
+        "AI",
+        "LLM"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "ポケモンの選出判断をLLMに任せてみた。タイプ相性はコード、推奨3体はDeepSeek",
+      "url": "https://qiita.com/koji0705/items/0f6ea7b596db19a41e26",
+      "tags": [
+        "LLM",
+        "pokemon"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude Code LLMプロキシ運用の1週間：中国語混入からsystemd化までの4教訓",
+      "url": "https://qiita.com/fukukei23/items/a4e76f55cd4fb0496c41",
+      "tags": [
+        "AI",
+        "VibeCoding",
+        "LLM"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude 4.5/4.6のテキスト透かし対応とtemperature等の注意点",
+      "url": "https://qiita.com/picnic/items/a977507f49b0f8bcd5a5",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "API",
+        "LLM",
+        "AI"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "AlphaProof Codeにみる形式検証とLLMの融合：Leanを用いた暗号実装の自動証明",
+      "url": "https://qiita.com/savor-speedup-dotage/items/520290b4f1c9d80eba3e",
+      "tags": [
+        "生成AI",
+        "形式検証",
+        "lean",
+        "AIエージェント",
+        "ソフトウェアテスト"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "ユーザーの真の意図を見抜く評価基盤「XYBench」：XY問題に対するLLMのプロアクティブ解釈能力とシステム設計",
+      "url": "https://qiita.com/savor-speedup-dotage/items/d0df2959243d767b2cc0",
+      "tags": [
+        "生成AI",
+        "LLM",
+        "評価基盤",
+        "プロンプトエンジニアリング",
+        "AIエージェント"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "次世代エージェント設計：Gemini Decisions API と Decision Models にみる「意思決定」の切り出しと較正",
+      "url": "https://qiita.com/savor-speedup-dotage/items/7645afaf86f75b8e726e",
+      "tags": [
+        "生成AI",
+        "LLM",
+        "エージェント",
+        "Gemini",
+        "機械学習"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "小規模オープンモデルによる集団意思決定：Output-Level Fusion と Linguistic Aggregation の比較設計論",
+      "url": "https://qiita.com/savor-speedup-dotage/items/d1a012cc0866bbe43765",
+      "tags": [
+        "生成AI",
+        "LLM",
+        "システム設計",
+        "アンサンブル学習",
+        "オープンモデル"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Effective User Studies in Computer Graphics(2023) 前半",
+      "url": "https://qiita.com/matumu20/items/aa779c187031de58610b",
+      "tags": [
+        "個人メモ",
+        "論文メモ",
+        "3DCG"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "「子孫へのツケ」は誰が受け取るのか——純債務・危機比較・世代間会計 : システム設計視点の行動経済学 (64)",
+      "url": "https://qiita.com/maskot1977/items/00673a33a7f6f0888ed9",
+      "tags": [
+        "システム設計",
+        "行動経済学",
+        "ChatGPT",
+        "ClaudeCode",
+        "Gemini"
+      ],
+      "likes": 5,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Docker学習記録②：Docker Network・Docker Hub・VPSへのデプロイの仕組みを理解する",
+      "url": "https://qiita.com/Kakkoiiraretsugaomoitsukanai/items/272e9d3919d41859c935",
+      "tags": [
+        "Docker",
+        "DockerHub",
+        "nginx",
+        "初心者",
+        "インフラ"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【手で書いて覚える個人開発 #15】配列メソッド map・filter・find",
+      "url": "https://qiita.com/masatomoto-cmyk/items/78d500d18cef04a73205",
+      "tags": [
+        "初心者",
+        "JavaScript",
+        "Node.js"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "ボタンを呼べた ≠ 記録できた：UI自動テストを「未確認」で止めた話",
+      "url": "https://qiita.com/LocalManualMaker/items/6e7e83e1f4c9ba76b087",
+      "tags": [
+        "Windows",
+        "テスト",
+        "uiautomation",
+        "個人開発"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Macアプリを900本入れて消して分かった、残骸パスの落とし穴",
+      "url": "https://qiita.com/hitw93/items/3eefb734977a3418f8f9",
+      "tags": [
+        "macOS",
+        "Mac",
+        "個人開発",
+        "Uninstall"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "CLAUDE.mdの指示が効いたか、同じ課題で確かめる",
+      "url": "https://qiita.com/kentasatomi/items/41c2ad18ef05aa10ec4f",
+      "tags": [
+        "ClaudeCode",
+        "生成AI",
+        "テスト"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【Claudeの料金プランを徹底比較】無料・有料の違いと個人・企業に適した選び方｜連載第2弾",
+      "url": "https://qiita.com/rikunagano/items/7121f1239ddfe0f2e6da",
+      "tags": [
+        "Claude",
+        "プラン"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Tripo製VRMの脇の裂けを、16.6%から8.5%まで直した",
+      "url": "https://qiita.com/hatyibei/items/79c21bb0384baf24a6b3",
+      "tags": [
+        "VRM",
+        "Blender",
+        "tripo",
+        "3DCG",
+        "Python"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI 社員にメールを任せて、受信箱を 0 にするまで ── 戻せる操作は自動、戻せない操作だけ承認にした",
+      "url": "https://qiita.com/chooser/items/ccf0e2c4863a17cd65ad",
+      "tags": [
+        "AI",
+        "AIエージェント",
+        "業務自動化",
+        "Gmail",
+        "paperclip"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "台湾華語 : AI技術の進歩と業界動向",
+      "url": "https://qiita.com/maszkot5/items/65bba528f14dbba045a7",
+      "tags": [
+        "台湾華語"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "返信ツリーの再帰UIをServer Componentsで実装する ― フラットJSONから深さ制限・N+1回避まで",
+      "url": "https://qiita.com/joinclass/items/b60258be5f3096a6b3c3",
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "ServerComponents",
+        "ClaudeCode"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【GitHub日報】初登場ゼロ、univerが+1,878でmodern-web-guidanceから首位交代 — 2026-11-17",
+      "url": "https://qiita.com/Git_Dayori/items/71977055e843a376f04c",
+      "tags": [
+        "GitHub",
+        "トレンド",
+        "OSS",
+        "AI",
+        "開発ツール"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "2026/11/17主にITとかセキュリティの記事",
+      "url": "https://qiita.com/pitopito/items/cf6af5590fbc391441f1",
+      "tags": [
+        "Security",
+        "ニュース"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "MT5のbid足でバックテストするとき、スプレッドは往復1回分 ── 2回引いていたのをPythonとテストで直した",
+      "url": "https://qiita.com/shin5nack/items/ff35ec0d7d57f31945b3",
+      "tags": [
+        "Python",
+        "バックテスト",
+        "MT5",
+        "テスト",
+        "金融"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "【全４回連載（第３回）】どの国が、Neural Theorem Proverの研究開発を牽引しているのか ── 仏独英米・ポーランド・中国・日本の動向",
+      "url": "https://qiita.com/etale_cohomology/items/0c223227c69c34f45305",
+      "tags": [
+        "定理証明",
+        "lean4",
+        "AI",
+        "LLM",
+        "機械学習"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "表や数式が崩れないOCR「Surya」v0.24.0 を Mac で動かしてみた",
+      "url": "https://qiita.com/Takuya__/items/206fee7d1b5fc6cf61ef",
+      "tags": [
+        "OCR",
+        "rag",
+        "Python",
+        "生成AI",
+        "LLM"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "最新テック活用事例 AIエージェント LLM AgentSkills MCP",
+      "url": "https://qiita.com/Yushi88/items/789ff8c4bf4700a784f5",
+      "tags": [
+        "最新テック活用事例",
+        "AIエージェント",
+        "LLM",
+        "AgentSkills",
+        "MCP"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "Docker ComposeでNode.js + MySQLのTODOアプリを作ってみる",
+      "url": "https://qiita.com/yokotto_tech/items/aeb441215bc542ffb080",
+      "tags": [
+        "Docker",
+        "docker-compose",
+        "Node.js",
+        "MySQL"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "MCPサーバーを初めてつなぐ前に：Host・Client・Serverの役割と、読み取り専用から始める5ステップ",
+      "url": "https://qiita.com/toolpotion/items/c313e6affe97b881045a",
+      "tags": [
+        "ClaudeCode",
+        "MCP",
+        "AIエージェント",
+        "LLM",
+        "Security"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-17",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI学習ロードマップ",
+      "url": "https://qiita.com/lumichy/items/03b11845d6888dbb3296",
+      "tags": [
+        "AI",
+        "機械学習",
+        "DeepLearning",
+        "LLM",
+        "Agent"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-16",
+      "source": "Qiita"
+    },
+    {
+      "title": "【2026年版】AIコーディングエージェントを「チーム開発」に導入する手順まとめ",
+      "url": "https://qiita.com/Munise/items/de72e3b5fc0d37e91838",
+      "tags": [
+        "AI",
+        "ClaudeCode",
+        "チーム開発",
+        "コードレビュー",
+        "生成AI"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-16",
+      "source": "Qiita"
+    },
+    {
+      "title": "「MCP対応だけでCMSはAIネイティブになるのか？ 2026年のCMSに必要な4つのAIワークフロー」",
+      "url": "https://qiita.com/Rakete/items/2d696169397d0636833f",
+      "tags": [
+        "CMS",
+        "AI",
+        "MCP",
+        "OpenSource",
+        "アーキテクチャ"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-16",
+      "source": "Qiita"
+    },
+    {
+      "title": "Claude Code の /compact・/clear・/handoff はいつ打つ？ ask-matt の判断順を1つの機能開発でたどる",
+      "url": "https://qiita.com/Skillselion/items/c73c3fa094b410060db2",
+      "tags": [
+        "ClaudeCode",
+        "Claude",
+        "AIエージェント",
+        "開発効率化",
+        "コンテキスト管理"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-16",
+      "source": "Qiita"
+    },
+    {
+      "title": "集中が続かないエンジニアが、人とAIエージェントを一緒に働かせるために置いた4つのファイル",
+      "url": "https://qiita.com/dopa_en/items/90691b73c3c4c4f7b3c5",
+      "tags": [
+        "AIエージェント",
+        "ClaudeCode",
+        "codex",
+        "GitHub",
+        "AI駆動開発"
+      ],
+      "likes": 1,
+      "published_at": "2026-11-16",
+      "source": "Qiita"
+    },
+    {
+      "title": "graphifyでコードベースを知識グラフ化して、AIコーディングエージェントに渡す手順【導入ガイド・未検証】",
+      "url": "https://qiita.com/Tomcat-zhou/items/1910a5c978bb67eec61a",
+      "tags": [
+        "`AI`",
+        "`LLM`",
+        "`ClaudeCode`",
+        "`graphify`",
+        "`知識グラフ`"
+      ],
+      "likes": 0,
+      "published_at": "2026-11-02",
+      "source": "Qiita"
+    },
+    {
+      "title": "Oracle AI World 2026 開幕！ 注目発表と講演まとめ",
+      "url": "https://qiita.com/shirok/items/fb1d5dded8654002d2c1",
+      "tags": [
+        "oracle",
+        "AI",
+        "oci",
+        "oraclecloud",
+        "OracleDatabase"
+      ],
+      "likes": 26,
+      "published_at": "2026-10-26",
+      "source": "Qiita"
+    },
+    {
+      "title": "Hermes Agent まとめ — 「使うほど賢くなる常駐エージェント」とそのエコシステム",
+      "url": "https://qiita.com/isihigameKoudai/items/5201874d2f243b552c87",
+      "tags": [
+        "AI",
+        "HermesAgent",
+        "Agent",
+        "HermesDesktop",
+        "NousResearch"
+      ],
+      "likes": 2,
+      "published_at": "2026-10-23",
+      "source": "Qiita"
+    },
+    {
+      "title": "Midnight AI Groove 26-08-10",
+      "url": "https://qiita.com/masykot582/items/112d3ed5810274b60259",
+      "tags": [
+        "Midnight",
+        "AI",
+        "groove",
+        "ChatGPT"
+      ],
+      "likes": 0,
+      "published_at": "2026-08-14",
+      "source": "Qiita"
+    },
+    {
+      "title": "【第2回】OpenCodeでiGPUを遊ばせない: タイトル生成とRAGを分離してdGPUを推論に専念させる",
+      "url": "https://qiita.com/settembre21/items/bdac940ca8135212810f",
+      "tags": [
+        "LLM",
+        "opencode",
+        "rag",
+        "ローカルLLM",
+        "GPU"
+      ],
+      "likes": 1,
+      "published_at": "2026-07-25",
+      "source": "Qiita"
+    },
+    {
+      "title": "Show Us Your Claw! と言われたので Build-a-Claw Tokyo に見せに行った",
+      "url": "https://qiita.com/TT-Resolver/items/2fdd911d33a62158c513",
+      "tags": [
+        "NVIDIA",
+        "イベントレポート",
+        "DGXSpark",
+        "PhysicalAI",
+        "OpenClaw"
+      ],
+      "likes": 2,
+      "published_at": "2026-07-15",
+      "source": "Qiita"
+    },
+    {
+      "title": "AIコーディングエージェントに「記憶」を持たせる claw-memory を作った話（アーキテクチャ解説）",
+      "url": "https://qiita.com/nogataka/items/b044885156acf5370b06",
+      "tags": [
+        "SQLite",
+        "TypeScript",
+        "AI",
+        "MCP",
+        "Claude"
+      ],
+      "likes": 7,
+      "published_at": "2026-06-01",
+      "source": "Qiita"
+    },
+    {
+      "title": "【毎日更新】Claude Code向けスキル・MCP・関連ツール人気ランキングTOP100をGitHubスターで自動集計",
+      "url": "https://qiita.com/TakanobuSano/items/1d98dd5fb49ce99bd288",
+      "tags": [
+        "Python",
+        "GitHub",
+        "MCP",
+        "GitHubActions",
+        "ClaudeCode"
+      ],
+      "likes": 1,
+      "published_at": "2026-05-31",
+      "source": "Qiita"
+    },
+    {
+      "title": "Moonshot AI Kimi K2.6とは──5日間連続自律と300エージェント並列を実現する1兆MoE",
+      "url": "https://qiita.com/Yushi88/items/5a02c8ccc8c01eea70b7",
+      "tags": [
+        "LLM",
+        "MoE",
+        "AIエージェント",
+        "Moonshot",
+        "最新テック活用事例"
+      ],
+      "likes": 0,
+      "published_at": "2026-05-30",
+      "source": "Qiita"
+    },
+    {
+      "title": "OpenClaw を実務で活用するには？おすすめのオープンソースツール 5 選",
+      "url": "https://qiita.com/TianqiYuan/items/e450f00fbaa7d1de954f",
+      "tags": [
+        "OpenSource",
+        "AI",
+        "AIエージェント",
+        "OpenClaw"
+      ],
+      "likes": 2,
+      "published_at": "2026-05-27",
+      "source": "Qiita"
+    },
+    {
+      "title": "AI駆動開発で自分用の情報収集Discordサーバーを作る",
+      "url": "https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "url": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門",
+      "url": "https://zenn.dev/turing_motors/articles/cea9e3c85611b2",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "インフラ＆CI/CD（GitHub Actionsの自動デプロイ）〜化石時代のFTPから脱却。あえて作り込まない「運用カバー」の自動化〜",
+      "url": "https://zenn.dev/dgft/articles/da631c5758aa6a",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "若手の「説明力」は、AI開発で育てられるか ― 資料レビューAIを題材にしたOJTの実践",
+      "url": "https://zenn.dev/nttdata_tech/articles/d159fdd9c38c00",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "Claude Codeが書いたコードを読む代わりにやっていること",
+      "url": "https://zenn.dev/linkedge/articles/claude-code-instead-of-reading-code",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "mizchi/mutator を入れてみた",
+      "url": "https://zenn.dev/polyco/articles/e05cb28c569801",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Mon, 16 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "サンドボックス内のAIエージェントにHerdrを安全に使わせたい",
+      "url": "https://zenn.dev/naofumimurata/articles/nono-hc-proxy",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Sun, 15 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "AIの回答が長すぎて、理解しないまま実装している問題（理解負債）",
+      "url": "https://zenn.dev/kent_code/articles/5892898be90cac",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Sun, 15 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "5年後のエンジニアは、何に責任を持つのだろうか",
+      "url": "https://zenn.dev/ara_ta3/articles/thinking-about-engineers-five-years-from-now",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 13 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Fri, 13 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+      "url": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Thu, 12 No",
+      "source": "Zenn"
+    },
+    {
+      "title": "ISUCON2026 で優勝しました（準備編）",
+      "url": "https://zenn.dev/luvtechno/articles/isucon2026-preparation",
+      "tags": [],
+      "likes": 0,
+      "published_at": "Wed, 11 No",
+      "source": "Zenn"
+    }
+  ]
+}
